@@ -1,8 +1,19 @@
-# React-Food-Ordering
- 
-# Sobre
+# Food Ordering App (Full Stack - React + Backend + Auth)
 
-Portifolio feito em react para treinar linguagem e sintaxe.
-+ Tutorial feito no dia 13/11/2022
-+ Canal do tutorial: webdecoded.
-+ Link do video https://www.youtube.com/watch?v=x4dIga_3S4I
+Este projeto evolui o frontend iFood-like para uma arquitetura completa **full stack**, com backend, banco de dados e autenticação.
+
+# 🧠 Stack do Projeto
+
+## Frontend
+- React + Vite
+- TailwindCSS
+- Context API ou Zustand (estado global)
+- Axios (requisições HTTP)
+
+## Backend
+- Node.js
+- Express.js
+- Prisma ORM
+- PostgreSQL (ou SQLite para dev)
+- JWT (autenticação)
+- bcrypt (hash de senha)
